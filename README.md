@@ -22,7 +22,7 @@ My Favourite because Client understood it in 10 mins! 😄
 
 # <span style="color:#336699;">For e-Commerce - Website Client</span>
 ![](/Images/Overview_Marketing.png)
-![](/main/Images/SocialMedia_Marketing.png)
+![](/Images/SocialMedia_Marketing.png)
 ![](/Images/Reviews_Marketing.png)
 
 # <span style="color:#336699;">Tableau Dashboard for Supply Chain Client</span>
