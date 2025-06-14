@@ -4,6 +4,11 @@ All Dashboards Here! <sub>[View](https://shaguftapathan.github.io/Dashboards/)</
 ![](/Images/cctv-1.png)
 ![](/Images/cctv-2.png)
 
+# <span style="color:#336699;">For Healthcare Client</span> <sub>[View Project](https://shaguftapathan.github.io/PowerBI_Dashboard_Real_Estate/)</sub>
+![](/Images/real_est_1.png)
+![](/Images/real_est_2.png)
+
+
 # <span style="color:#336699;">For Healthcare Client</span> <sub>[View Project](https://shaguftapathan.github.io/PowerBI_Dashboard_Healthcare_Client/)</sub>
 ![](/Images/E-motion-1.png)
 ![](/Images/E-motion-2.png)
