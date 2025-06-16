@@ -1,15 +1,19 @@
 All Dashboards Here! <sub>[View](https://shaguftapathan.github.io/Dashboards/)</sub>
 
-# <span style="color:#336699;">For e-Commerece(CCTV) Client</span> <sub>[View Project](https://shaguftapathan.github.io/PowerBI_Dashboard_e-Commerce_Client/)</sub>
+# <span style="color:#336699;">For e-Commerece(CCTV) Client</span> <sub>[ View Project](https://shaguftapathan.github.io/PowerBI_Dashboard_e-Commerce_Client/)</sub>
 ![](/Images/cctv-1.png)
 ![](/Images/cctv-2.png)
 
-# <span style="color:#336699;">For Real Estate Client</span> <sub>[View Project](https://shaguftapathan.github.io/PowerBI_Dashboard_Real_Estate/)</sub>
+# <span style="color:#336699;">For Real Estate Client</span> <sub>[ View Project](https://shaguftapathan.github.io/PowerBI_Dashboard_Real_Estate/)</sub>
 ![](/Images/real_est_1.png)
 ![](/Images/real_est_2.png)
 
+# <span style="color:#336699;">For Real Estate Client</span> <sub>[ View Project](https://shaguftapathan.github.io/PowerBI_Logistic_Shipments_Delay_Insights/)</sub>
+![](/Images/log_1.png)
+![](/Images/log_2.png)
+![](/Images/log_3.png)
 
-# <span style="color:#336699;">For Healthcare Client</span> <sub>[View Project](https://shaguftapathan.github.io/PowerBI_Dashboard_Healthcare_Client/)</sub>
+# <span style="color:#336699;">For Healthcare Client</span> <sub>[ View Project](https://shaguftapathan.github.io/PowerBI_Dashboard_Healthcare_Client/)</sub>
 ![](/Images/E-motion-1.png)
 ![](/Images/E-motion-2.png)
 ![](/Images/E-motion-3.png)
