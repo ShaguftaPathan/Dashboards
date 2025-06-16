@@ -25,11 +25,11 @@ My Favourite because Client understood it in 10 mins! 😄
 ![](/Images/logistics.png)
 
 # <span style="color:#336699;">For e-Commerce - Website Client</span>
-![](https://github.com/ShaguftaPathan/Dashboards/blob/main/Images/Overview_Marketing.png)
-![](/https://github.com/ShaguftaPathan/Dashboards/blob/main/Images/SocialMedia_Marketing.png)
-![](https://github.com/ShaguftaPathan/Dashboards/blob/main/Images/SocialMedia_Marketing.png)
+![](/Images/Marketing_1.png)
+![](/Images/Marketing_2.png)
+![](/Images/Marketing_3.png)
 
 # <span style="color:#336699;">Tableau Dashboard for Supply Chain Client</span>
-![](https://github.com/ShaguftaPathan/Dashboards/blob/main/Images/Sales_tableu.png)
+![](/Images/Tableau_Sales.png)
 
 
